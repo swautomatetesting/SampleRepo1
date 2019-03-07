@@ -8,5 +8,6 @@ public class ThirdTest3
     public void SampleTest3()
     {
         System.out.println("Third  Test3.............");
+System.out.println("Added new lines in  Test3.............");
           }
 }
